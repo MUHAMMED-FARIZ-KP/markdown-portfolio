@@ -1,7 +1,8 @@
-1. Item 1
-2. Item 2
-3. Item 3
-   1. Item 3a
-   2. Item 3b
+# skills 💝
+1. Speed
+2. spirit
+3. Strength
+   1. Sense
+   
 
 
