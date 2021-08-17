@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# skills 💝
+1.Speed
+2.Sense
+3.Strength
+4.Spirit
